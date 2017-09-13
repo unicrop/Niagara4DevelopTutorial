@@ -2,9 +2,9 @@
 ## What is BajaScript
 + JavaScript data API
 + Interact with a Niagara station
-  ++ Resolve and Subscribe
-  ++ Database queries
-  ++ Tags and Relations
+  + Resolve and Subscribe
+  + Database queries
+  + Tags and Relations
 + Extensible
 + Not a UI framework
 
